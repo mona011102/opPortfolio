@@ -2,7 +2,11 @@
   "private": true,
   "name": "opportfolio",
   "version": "1.2.0",
-  "homepage": "https://github.com/mona011102/opPortfolio",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/afea2508-00ca-464f-8f63-a4283928fc0f/deploy-status)](https://app.netlify.com/sites/hriship/deploys)\r ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FHrishi1999%2FopPortfolio)",
+  "license": "ISC",
+  "author": "",
+  "homepage": "https://mona011102.github.io/opPortfolio",
+  "main": "index.js",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
